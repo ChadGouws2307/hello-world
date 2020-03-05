@@ -5,6 +5,6 @@ I am a Data Scientist and Engineer. I love mathematics, software engineering and
 
 If I'm not learning something new, solving a difficult problem or building something valuable, then I probably shouldn't be involved with whatever that is.
 
-Alwasys up for a challenge!
+Always up for a challenge.
 
 Chad.
