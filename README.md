@@ -1,4 +1,4 @@
-# hello-world
+# A-Little-Bit-About-Me
 This is a little about me:
 
 I am a Data Scientist and Engineer. I love mathematics, software engineering and problem solving.
